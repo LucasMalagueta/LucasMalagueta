@@ -14,7 +14,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 
 ### <b>Programming Languages and Tools:</b>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="c" style="vertical-align:top; margin:4px; height:80px;"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" style="vertical-align:top; margin:4px; height:80px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="c++" style="vertical-align:top; margin:4px; height:80px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" style="vertical-align:top; margin:4px; height:80px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" style="vertical-align:top; margin:4px; height:80px;"/> &nbsp; &nbsp;
