@@ -21,7 +21,6 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html5" style="vertical-align:top; margin:4px; height:80px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css3" style="vertical-align:top; margin:4px; height:80px;"/> &nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" style="vertical-align:top; margin:4px; height:80px;"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" style="vertical-align:top; margin:4px; height:80px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" style="vertical-align:top; margin:4px; height:80px;"/>
 </p>
 
