@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey , I'm Lucas Malagueta!
 
-<!--
-**LucasMalagueta/LucasMalagueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+I am currently a Systems Information student at University Unoeste, São Paulo, based in Presidente Prudente. Working in an accounting office, programming for work, and I’m always excited to keep up with the latest innovations. I love exploring everything that’s new.
 
-Here are some ideas to get you started:
+### My contact details:
+<p align='center'>
+    <a href="https://www.instagram.com/malaguetalucas/"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/lucas-atade-malagueta-72035728a"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+    <a href="lucasataidepq@gmail.com"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"></a>&nbsp;&nbsp;
+</p>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <b>Programming Languages and Tools:</b>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="c" style="vertical-align:top; margin:4px; height:80px;"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="c++" style="vertical-align:top; margin:4px; height:80px;"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" style="vertical-align:top; margin:4px; height:80px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" style="vertical-align:top; margin:4px; height:80px;"/> &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html5" style="vertical-align:top; margin:4px; height:80px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css3" style="vertical-align:top; margin:4px; height:80px;"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="github" style="vertical-align:top; margin:4px; height:80px;"/>
+</p>
+
+<br/>
+
+<div align="center" style= "margin:65px">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMalagueta&layout=compact&theme=dark" alt="Top Languages"/>
+    </a>
+</div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
