@@ -5,9 +5,9 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 
 ### My contact details:
 <p align='center'>
-    <a href="https://www.instagram.com/malaguetalucas/"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/lucas-atade-malagueta-72035728a"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
-    <a href="lucasataidepq@gmail.com"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/malaguetalucas/"><img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/lucas-atade-malagueta-72035728a"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+    <a href="lucasataidepq@gmail.com"><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"></a>&nbsp;&nbsp;
 </p>
 <br/>
 
