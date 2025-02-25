@@ -1,4 +1,4 @@
-# Hey , I'm Lucas Malagueta!
+# Hey , I'm Lucas Malagueta! 👋
 
 <br/>
 I am currently a Systems Information student at University Unoeste, São Paulo, based in Presidente Prudente. Working in an accounting office, programming for work, and I’m always excited to keep up with the latest innovations. I love exploring everything that’s new.
