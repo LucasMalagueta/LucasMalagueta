@@ -35,7 +35,6 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 <br/>
 
 ### <b>GitHub Status 📊:</b>
-<br><br/>
 <div align="center" style= "margin:65px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMalagueta&layout=compact&theme=dark" alt="Top Languages"/>
