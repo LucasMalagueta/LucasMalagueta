@@ -12,7 +12,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 <br/>
 
 
-### <b>Programming Languages and Tools:</b>
+### <b>Programming Languages and Tools 🔨:</b>
 <p align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" style="vertical-align:top; margin:4px; height:80px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="c++" style="vertical-align:top; margin:4px; height:80px;"/>
@@ -26,6 +26,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 
 <br/>
 
+### <b>GitHub Status 📊:</b>
 <div align="center" style= "margin:65px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMalagueta&layout=compact&theme=dark" alt="Top Languages"/>
