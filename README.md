@@ -10,7 +10,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 </p>
 <p align = 'center'>
     <a><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"></a>&nbsp;&nbsp;
-    <a>**lucasataidepq@gmail.com**</a>
+    <a>lucasataidepq@gmail.com</a>
 </p>
 <br/>
 
