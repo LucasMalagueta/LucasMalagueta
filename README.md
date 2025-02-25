@@ -22,6 +22,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
     <img src="https://www.svgrepo.com/show/373451/autohotkey.svg" alt="ahk" style="vertical-align:low; margin:5px; height:95px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" style="vertical-align:top; margin:5px; height:80px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="py" style="vertical-align:top; margin:5px; height:80px;"/>
+    <br><br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html5" style="vertical-align:top; margin:5px; height:80px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css3" style="vertical-align:top; margin:5px; height:80px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" style="vertical-align:top; margin:5px; height:80px;"/>
