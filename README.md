@@ -10,7 +10,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
     <a href="https://linkedin.com/in/lucas-atade-malagueta-72035728a"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
 </p>
 <p align = 'center'>
-    <a>My E-mail: lucasataidepq@gmail.com</a>
+    <a>My E-mail: **lucasataidepq@gmail.com** </a>
 </p>
 <br/>
 
