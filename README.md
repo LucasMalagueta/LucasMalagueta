@@ -9,9 +9,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
     <a href="https://www.instagram.com/malaguetalucas/"><img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/lucas-atade-malagueta-72035728a"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
 </p>
-<p align = 'center'>
-    <a>My E-mail: **lucasataidepq@gmail.com** </a>
-</p>
+My E-mail: lucasataidepq@gmail.com
 <br/>
 
 
