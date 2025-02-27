@@ -32,6 +32,3 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
     </a>
 </div>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
