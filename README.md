@@ -24,6 +24,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 </p>
 
 <br/>
+<br/>
 
 <div align="center" style= "margin:65px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
