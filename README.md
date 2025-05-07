@@ -9,7 +9,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 ### <b>Programming Languages and Tools 🔨:</b>
 <p align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" style="vertical-align:top; margin:5px; height:60px;"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="c++" style="vertical-align:top; margin:5px; height:60px;"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="c++" style="vertical-align:top; margin:5px; height:60px;"/>
     <img src="https://www.svgrepo.com/show/373451/autohotkey.svg" alt="ahk" style="vertical-align:low; height:72px; width:76px"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" style="vertical-align:top; margin:5px; height:60px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="py" style="vertical-align:top; margin:5px; height:60px;"/>
