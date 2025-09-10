@@ -29,7 +29,7 @@ I am currently a Systems Information student at University Unoeste, São Paulo, 
 
 <div align="center" style= "margin:65px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMalagueta&layout=compact&theme=dark" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMalagueta&layout=compact&theme=dark&exclude_lang=AutoHotkey" alt="Top Languages"/>
     </a>
 </div>
 
